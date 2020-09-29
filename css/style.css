@@ -1,0 +1,21 @@
+#img1{
+width: 280px;
+
+height:  415px;
+margin-left: 100px;
+  
+  }
+  #img2{
+      width: 280px;
+
+    height:  415px;
+    float: right;
+    margin-right: 100px;
+  
+  }
+
+  
+  form{
+      width: 80%;
+margin: auto;
+margin-top: 20px;  }
